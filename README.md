@@ -1,5 +1,7 @@
 # ep_OAC1
-Exercício de Programação Desenvolvido para a matéria de Organização de Arquitetura de Computadores 1.
-O EP consiste em solucionar um dos problemas da lista utilizando código alto nível (C) e código em assembly na arquitetura MIPS.
-Também há um relatório muito bem elaborado explicando as particularidades da arquitetura MIPS, suas intruções e micro operações.
-O trabalho foi realizado em dupla.
+- Exercício de Programação desenvolvido como requisito parcial para a aprovação na matéria "Organização e Arquitetura de Computadores I"
+  
+- O EP consiste em solucionar o problema 9A da lista de exercícios utilizando código alto nível (C) e código em Assembly na arquitetura MIPS.
+
+- obs1. Também há um relatório muito bem elaborado explicando as particularidades da arquitetura MIPS, suas intruções e micro operações.
+- obs2. O trabalho foi realizado em dupla (Ana Beatriz Chagas e André Palacio)
