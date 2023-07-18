@@ -3,5 +3,5 @@
   
 - O EP consiste em solucionar o problema 9A da lista de exercícios utilizando código alto nível (C) e código em Assembly na arquitetura MIPS.
 
-- obs1. Também há um relatório muito bem elaborado explicando as particularidades da arquitetura MIPS, suas intruções e micro operações.
+- obs1. Também há um relatório muito bem elaborado explicando as particularidades da arquitetura MIPS, suas instruções e micro operações.
 - obs2. O trabalho foi realizado em dupla (Ana Beatriz Chagas e André Palacio)
